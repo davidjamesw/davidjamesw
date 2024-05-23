@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A backend developer from Southport, UK. Almost ten years Java experience, currently looking to learn some new languages.</h3>
+<h3 align="center">A backend developer from Southport, UK.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidjamesw&label=Profile%20views&color=0e75b6&style=flat" alt="davidjamesw" /> </p>
 
